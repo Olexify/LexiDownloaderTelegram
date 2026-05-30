@@ -21,8 +21,10 @@ Guide: https://www.realityframeworks.com/how-to-install-ffmpeg-for-yt-dlp/#downl
 https://github.com/BtbN/FFmpeg-Builds/releases
 Windows: In Github REPO find ffmpeg-master-latest-win64-lgpl.zip
 
-
-<img width="636" height="1110" alt="Screenshot 2026-05-28 183950" src="https://github.com/user-attachments/assets/3dbd65a4-d4df-4c14-b11e-17c4e9328119" />
-<img width="600" height="1042" alt="Screenshot 2026-05-28 183937" src="https://github.com/user-attachments/assets/16369ba9-29fd-4781-bcb7-4a8dec6dfa56" />
-<img width="1396" height="1080" alt="Screenshot 2026-05-28 183915" src="https://github.com/user-attachments/assets/8b0ff6be-dc88-4b9f-9414-f213f029295f" />
 <img width="1186" height="884" alt="Screenshot 2026-05-28 183904" src="https://github.com/user-attachments/assets/40534e6c-bc9e-4195-8912-6542bd15b32e" />
+<img width="1396" height="1080" alt="Screenshot 2026-05-28 183915" src="https://github.com/user-attachments/assets/8b0ff6be-dc88-4b9f-9414-f213f029295f" />
+<img width="600" height="1042" alt="Screenshot 2026-05-28 183937" src="https://github.com/user-attachments/assets/16369ba9-29fd-4781-bcb7-4a8dec6dfa56" />
+<img width="636" height="1110" alt="Screenshot 2026-05-28 183950" src="https://github.com/user-attachments/assets/3dbd65a4-d4df-4c14-b11e-17c4e9328119" />
+
+
+
