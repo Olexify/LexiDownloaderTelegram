@@ -1,4 +1,4 @@
-# 📥 LexiDownloaderTelegram
+# 📥 LexiDownloaderTelegram [LexiDownloaderBot](https://t.me/LexiDownloaderBot)
 
 Host your own Telegram bot for downloading videos, audio, and files using `yt-dlp` and `FFmpeg`.
 
