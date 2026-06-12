@@ -1,0 +1,9 @@
+py -m pip install -U yt-dlp
+
+
+ffmpeg:
+https://www.realityframeworks.com/how-to-install-ffmpeg-for-yt-dlp/#download-ffmpeg
+
+github find ffmpeg-master-latest-win64-lgpl.zip
+
+https://github.com/BtbN/FFmpeg-Builds/releases
